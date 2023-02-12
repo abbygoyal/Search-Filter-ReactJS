@@ -1,6 +1,6 @@
-## Search Filter ReactJS(Coding-Drafts)
+## Search-Filter ReactJS(Coding-Drafts)
 
-Search Filter data ReactJS
+Search and Filter data ReactJS
 
 ## Live Project Link
 
